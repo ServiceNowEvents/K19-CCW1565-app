@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="temperature" label="Temperature" language="en" table="x_delegated_dev_19_las_vegas_weather">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>temperature</element>
+            <help/>
+            <hint/>
+            <label>Temperature</label>
+            <language>en</language>
+            <name>x_delegated_dev_19_las_vegas_weather</name>
+            <plural>Temperatures</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>maint</sys_created_by>
+            <sys_created_on>2019-04-06 06:57:16</sys_created_on>
+            <sys_id>4c146a0351a03300964fea027a05d48c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Temperature</sys_name>
+            <sys_package display_value="Delegated Dev 19" source="x_delegated_dev_19">ddc3a60351a03300964fea027a05d41b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Delegated Dev 19">ddc3a60351a03300964fea027a05d41b</sys_scope>
+            <sys_update_name>sys_documentation_x_delegated_dev_19_las_vegas_weather_temperature_en</sys_update_name>
+            <sys_updated_by>maint</sys_updated_by>
+            <sys_updated_on>2019-04-06 06:57:16</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

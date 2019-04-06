@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Las Vegas Weather" max_length="40" name="x_delegated_dev_19_las_vegas_weather" type="collection">
+        <element label="Temperature" max_length="40" name="temperature" type="string"/>
+        <element label="Weather" max_length="40" name="weather" type="string"/>
+    </element>
+</database>

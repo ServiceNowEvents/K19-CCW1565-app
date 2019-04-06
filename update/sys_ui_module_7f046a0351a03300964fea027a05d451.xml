@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Las Vegas Weather">33046a0351a03300964fea027a05d450</application>
+        <filter/>
+        <name>Las Vegas Weathers</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_delegated_dev_19.las_vegas_weather_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2019-04-06 06:57:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7f046a0351a03300964fea027a05d451</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Las Vegas Weathers</sys_name>
+        <sys_package display_value="Delegated Dev 19" source="x_delegated_dev_19">ddc3a60351a03300964fea027a05d41b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Delegated Dev 19">ddc3a60351a03300964fea027a05d41b</sys_scope>
+        <sys_update_name>sys_ui_module_7f046a0351a03300964fea027a05d451</sys_update_name>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2019-04-06 06:57:15</sys_updated_on>
+        <table>x_delegated_dev_19_las_vegas_weather</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
