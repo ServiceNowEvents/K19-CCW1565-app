@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_delegated_dev_19.weather_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>weather_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2019-04-06 00:07:21</sys_created_on>
+        <sys_id>0336c9075c603300964f8fa61834b37e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_delegated_dev_19.weather_user</sys_name>
+        <sys_package display_value="Delegated Dev 19" source="x_delegated_dev_19">c40589835c603300964f8fa61834b334</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Delegated Dev 19">c40589835c603300964f8fa61834b334</sys_scope>
+        <sys_update_name>sys_user_role_0336c9075c603300964f8fa61834b37e</sys_update_name>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2019-04-06 00:07:21</sys_updated_on>
+    </sys_user_role>
+</record_update>
